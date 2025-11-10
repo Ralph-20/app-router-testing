@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__next-devtools__nextjs_runtime",
+      "mcp__next-devtools__init",
+      "mcp__next-devtools__nextjs_docs"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
